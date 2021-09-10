@@ -1,3 +1,4 @@
+```c
 using namespace std;
 int main ()
 {
@@ -14,3 +15,4 @@ int main ()
 	cout << " Fahrenheit --> Reamur : ";
 	cout <<R<<" ";
 }
+```
